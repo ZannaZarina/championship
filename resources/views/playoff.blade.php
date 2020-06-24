@@ -4,11 +4,11 @@
 <!doctype html>
 <html lang="en">
 <head>
-    <title>Play-off</title>
+    <title>Playoff</title>
 </head>
 <body>
 
-<h1 class="text-center">Play-off results</h1>
+<h1 class="text-center">Playoff results</h1>
 <br/> <br/>
 
 <div style="display: flex; justify-content: space-around">

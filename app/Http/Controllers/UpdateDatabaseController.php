@@ -108,7 +108,7 @@ class UpdateDatabaseController extends Controller
         Team::addScores('semifinals');
         Team::addScores('finals');
 
-        return redirect()->route('results');
+        return redirect()->route('playoff');
     }
 
 }

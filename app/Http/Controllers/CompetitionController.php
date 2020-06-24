@@ -30,7 +30,7 @@ class CompetitionController extends Controller
         $finals = FinalGame::joinTablesAndSelectTeams()->get();
         $teams = Team::orderDesc()->get();
 
-        return view('play-off', [
+        return view('playoff', [
             'quarterfinals' => $quarterfinals,
             'semifinals' => $semifinals,
             'finals' => $finals,

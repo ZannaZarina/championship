@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b543c7b4-b205-445d-8467-61b077da471e" name="Default Changelist" comment="" />
+    <list default="true" id="b543c7b4-b205-445d-8467-61b077da471e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/CompetitionController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/CompetitionController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/UpdateDatabaseController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/UpdateDatabaseController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/play-off.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/playoff.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +49,9 @@
       </path>
     </expand>
     <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -146,6 +156,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1dUpLWjAEjCCkXdKaHDaXcALCxX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -154,6 +165,7 @@
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -193,7 +205,7 @@
       <workItem from="1592842941460" duration="21861000" />
       <workItem from="1592907773269" duration="788000" />
       <workItem from="1592908584337" duration="23300000" />
-      <workItem from="1593020355179" duration="16528000" />
+      <workItem from="1593020355179" duration="20732000" />
     </task>
     <servers />
   </component>
