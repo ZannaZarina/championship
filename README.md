@@ -1,3 +1,5 @@
+![demonstration](https://raw.githubusercontent.com/ZannaZarina/championship/master/championship.gif)
+
 ### How to run a project
 1. Clone repository
 2. cd into your project
@@ -8,4 +10,4 @@
 7. In the .env file edit the DB_DATABASE, DB_USERNAME, and DB_PASSWORD fields
 8. Migrate your database: ```php artisan migrate```
 9. Generate fake data ```php artisan db:seed```
-9. ```php artisan serve``` to run a project
+10. ```php artisan serve``` to run a project
