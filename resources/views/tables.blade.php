@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<h1 class="text-center">Results before play-off</h1>
+<h1 class="text-center">Results before playoff</h1>
 <br/> <br/>
 
 <table class="table table-bordered text-center">

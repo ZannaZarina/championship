@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b543c7b4-b205-445d-8467-61b077da471e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/CompetitionController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/CompetitionController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/UpdateDatabaseController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/UpdateDatabaseController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/play-off.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/playoff.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +43,13 @@
         <item name="results@localhost" type="feb32156:DbDataSourceImpl" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
         <item name="results: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="results@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="results: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="teams: table" type="285a2a93:MysqlImplModel$Table" />
       </path>
     </expand>
     <select />
@@ -205,7 +209,8 @@
       <workItem from="1592842941460" duration="21861000" />
       <workItem from="1592907773269" duration="788000" />
       <workItem from="1592908584337" duration="23300000" />
-      <workItem from="1593020355179" duration="20732000" />
+      <workItem from="1593020355179" duration="21467000" />
+      <workItem from="1593367702577" duration="1358000" />
     </task>
     <servers />
   </component>
@@ -225,10 +230,10 @@
       <screen x="75" y="27" width="1845" height="1053" />
     </state>
     <state x="968" y="27" width="721" height="1053" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/75.27.1845.1053@75.27.1845.1053" timestamp="1593030989342" />
-    <state x="1112" y="311" width="524" height="484" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1592855191002">
+    <state x="1112" y="311" width="524" height="484" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1593368333157">
       <screen x="75" y="27" width="1845" height="1053" />
     </state>
-    <state x="1112" y="311" width="524" height="484" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/75.27.1845.1053@75.27.1845.1053" timestamp="1592855191002" />
+    <state x="1112" y="311" width="524" height="484" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/75.27.1845.1053@75.27.1845.1053" timestamp="1593368333157" />
     <state x="1089" y="366" width="569" height="373" key="NewPhpClassDialog" timestamp="1592758350710">
       <screen x="75" y="27" width="1845" height="1053" />
     </state>
@@ -253,10 +258,10 @@
       <screen x="75" y="27" width="1845" height="1053" />
     </state>
     <state x="858" y="127" width="962" height="851" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/75.27.1845.1053@75.27.1845.1053" timestamp="1593029815458" />
-    <state x="982" y="257" width="709" height="578" key="find.popup" timestamp="1593031417141">
+    <state x="982" y="257" width="709" height="578" key="find.popup" timestamp="1593368406784">
       <screen x="75" y="27" width="1845" height="1053" />
     </state>
-    <state x="982" y="257" width="709" height="578" key="find.popup/75.27.1845.1053@75.27.1845.1053" timestamp="1593031417141" />
+    <state x="982" y="257" width="709" height="578" key="find.popup/75.27.1845.1053@75.27.1845.1053" timestamp="1593368406784" />
     <state x="1097" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1592912990841">
       <screen x="75" y="27" width="1845" height="1053" />
     </state>
